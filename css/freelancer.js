@@ -264,7 +264,7 @@ export default StyleSheet.create({
         "marginLeft": "auto"
     },
     "portfolio portfolio-item portfolio-link caption": {
-        "background": "rgba(24, 188, 156, 0.9)",
+        "background": "rgba(24, 148, 188, 0.9)",
         "position": "absolute",
         "width": "100%",
         "height": "100%",
@@ -380,9 +380,9 @@ export default StyleSheet.create({
         "marginBottom": 50
     },
     "footer footer-below": {
-        "paddingTop": 25,
+        "paddingTop": 10,
         "paddingRight": 0,
-        "paddingBottom": 25,
+        "paddingBottom": 10,
         "paddingLeft": 0,
         "backgroundColor": "#233140"
     },
@@ -520,30 +520,30 @@ export default StyleSheet.create({
     },
     "btn-success:hover": {
         "color": "white",
-        "backgroundColor": "#128f76",
-        "borderColor": "#11866f"
+        "backgroundColor": "#12708f",
+        "borderColor": "#116986"
     },
     "btn-success:focus": {
         "color": "white",
-        "backgroundColor": "#128f76",
-        "borderColor": "#11866f"
+        "backgroundColor": "#12708f",
+        "borderColor": "#116986"
     },
     "btn-success:active": {
         "color": "white",
-        "backgroundColor": "#128f76",
-        "borderColor": "#11866f",
+        "backgroundColor": "#12708f",
+        "borderColor": "#116986",
         "backgroundImage": "none"
     },
     "btn-successactive": {
         "color": "white",
-        "backgroundColor": "#128f76",
-        "borderColor": "#11866f",
+        "backgroundColor": "#12708f",
+        "borderColor": "#116986",
         "backgroundImage": "none"
     },
     "open dropdown-togglebtn-success": {
         "color": "white",
-        "backgroundColor": "#128f76",
-        "borderColor": "#11866f",
+        "backgroundColor": "#12708f",
+        "borderColor": "#116986",
         "backgroundImage": "none"
     },
     "btn-successdisabled": {
